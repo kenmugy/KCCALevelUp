@@ -1,0 +1,33 @@
+body {
+	font-family: Arial;
+	margin: 0;
+	padding: 0;
+}
+
+.nav {
+	margin: 0 auto;
+	background-color: #6ba2f9;
+
+}
+.nav-links {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+.link-list {
+	float: left;
+}
+
+.link-list a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.main {
+	text-align: center;
+}
